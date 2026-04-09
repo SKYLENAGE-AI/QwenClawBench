@@ -8,11 +8,9 @@
 
 English | [中文](README_CN.md)
 
-<img src="imgs/qwen-logo.png" height="50" alt="Qwen Logo">
+<img src="imgs/qwen-logo.png" height="55" alt="Qwen Logo">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="imgs/alibaba-data-logo.png" height="40" alt="AlibabaData Logo">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="imgs/skylenage-logo.png" height="40" alt="Skylenage Logo">
+<img src="imgs/alibaba-data-logo.png" height="50" alt="AlibabaData Logo">
 
 <br>
 
