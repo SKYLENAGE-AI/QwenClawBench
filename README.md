@@ -226,7 +226,7 @@ If you use QwenClawBench in your research, please cite:
 @misc{qwenclawbench1.1,
     title = {{QwenClawBench}: Real-user-distribution benchmark for OpenClaw agents},
     url = {github.com/SKYLENAGE-AI/QwenClawBench},
-    author = {{Qwen Team} and {Alibaba AIData}},
+    author = {{Qwen Team} and {Alibaba Data}},
     month = {April},
     year = {2026}
 }
