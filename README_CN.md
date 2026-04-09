@@ -15,10 +15,11 @@
 
 <br>
 
-[![排行榜](https://img.shields.io/badge/排行榜-leaderboard-blue)]()
-[![许可证](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![任务数](https://img.shields.io/badge/tasks-100-orange)](#任务)
-[![版本](https://img.shields.io/badge/version-1.1-purple)]()
+[![排行榜](https://img.shields.io/badge/排行榜-查看-blue)](https://skylenage-ai.github.io/QwenClawBench-Leaderboard/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-数据集-yellow)](https://huggingface.co/datasets/skylenage-ai/QwenClawBench)
+[![许可证](https://img.shields.io/badge/许可证-MIT-green)](LICENSE)
+[![任务数](https://img.shields.io/badge/任务数-100-orange)](#任务)
+[![版本](https://img.shields.io/badge/版本-1.1-purple)](#未来计划)
 
 </div>
 
@@ -229,7 +230,7 @@ QwenClawBench 基于 [PinchBench](https://github.com/pinchbench/skill) 框架构
 @misc{qwenclawbench1.1,
     title = {{QwenClawBench}: Real-user-distribution benchmark for OpenClaw agents},
     url = {github.com/SKYLENAGE-AI/QwenClawBench},
-    author = {{Qwen Team}},
+    author = {{Qwen Team} and {Data Team}, {Alibaba Group}},
     month = {April},
     year = {2026}
 }

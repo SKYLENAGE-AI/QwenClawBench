@@ -14,7 +14,8 @@ English | [中文](README_CN.md)
 
 <br>
 
-[![Leaderboard](https://img.shields.io/badge/leaderboard-leaderboard-blue)]()
+[![Leaderboard](https://img.shields.io/badge/leaderboard-View-blue)](https://skylenage-ai.github.io/QwenClawBench-Leaderboard/)
+[![HuggingFace](https://img.shields.io/badge/huggingface-Dataset-yellow)](https://huggingface.co/datasets/skylenage-ai/QwenClawBench)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Tasks](https://img.shields.io/badge/tasks-100-orange)](#tasks)
 [![Version](https://img.shields.io/badge/version-1.1-purple)](#future-work)
@@ -225,7 +226,7 @@ If you use QwenClawBench in your research, please cite:
 @misc{qwenclawbench1.1,
     title = {{QwenClawBench}: Real-user-distribution benchmark for OpenClaw agents},
     url = {github.com/SKYLENAGE-AI/QwenClawBench},
-    author = {{Qwen Team}},
+    author = {{Qwen Team} and {Data Team}, {Alibaba Group}},
     month = {April},
     year = {2026}
 }
