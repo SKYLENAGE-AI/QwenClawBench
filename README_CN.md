@@ -230,7 +230,7 @@ QwenClawBench 基于 [PinchBench](https://github.com/pinchbench/skill) 框架构
 @misc{qwenclawbench1.1,
     title = {{QwenClawBench}: Real-user-distribution benchmark for OpenClaw agents},
     url = {github.com/SKYLENAGE-AI/QwenClawBench},
-    author = {{Qwen Team} and {Data Team}, {Alibaba Group}},
+    author = {{Qwen Team} and {Alibaba Data}},
     month = {April},
     year = {2026}
 }
